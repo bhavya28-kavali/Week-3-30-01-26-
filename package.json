@@ -1,7 +1,7 @@
 {
   "name": "week-3",
   "version": "1.0.0",
-  "description": "",
+  "description": "Week 3 backend completed",
   "main": "Request.js",
   "scripts": {
     "start": "node server.js",
@@ -14,5 +14,14 @@
     "express": "^5.2.1",
     "nodemon": "^3.1.11"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavya28-kavali/Week-3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhavya28-kavali/Week-3/issues"
+  },
+  "homepage": "https://github.com/bhavya28-kavali/Week-3#readme"
 }
